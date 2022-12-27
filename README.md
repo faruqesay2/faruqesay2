@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faruqesay
-- 👀 I’m interested in ... CLOUD COMPUTING 
+- 👀 I’m interested in ... Application programming 
 - 🌱 I’m currently learning ... C# PROGRAMMNG LANGUAGE
 - 💞️ I’m looking to collaborate on ... DEVELOPERS GANG
 - 📫 How to reach me ... INSTA = @FARUQESAY
